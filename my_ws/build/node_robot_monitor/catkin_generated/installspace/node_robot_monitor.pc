@@ -1,0 +1,8 @@
+prefix=/home/apeng/yp/privatespace/my_ws/install
+
+Name: node_robot_monitor
+Description: Description of node_robot_monitor
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/apeng/yp/privatespace/my_ws/install/lib 
+Requires: node_robot_msgs roscpp rospy std_msgs

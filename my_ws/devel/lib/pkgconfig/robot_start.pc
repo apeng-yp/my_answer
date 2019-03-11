@@ -1,0 +1,8 @@
+prefix=/home/apeng/yp/privatespace/my_ws/devel
+
+Name: robot_start
+Description: Description of robot_start
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/apeng/yp/privatespace/my_ws/devel/lib 
+Requires: 

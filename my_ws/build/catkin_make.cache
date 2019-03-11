@@ -1,0 +1,2 @@
+node_mini_factory_server:node_robot_1:node_robot_2:node_robot_monitor:node_robot_msgs:robot_start
+-DCATKIN_DEVEL_PREFIX=/home/apeng/yp/privatespace/my_ws/devel -DCMAKE_INSTALL_PREFIX=/home/apeng/yp/privatespace/my_ws/install -G Unix Makefiles

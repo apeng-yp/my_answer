@@ -1,0 +1,8 @@
+prefix=/home/apeng/yp/privatespace/my_ws/install
+
+Name: node_robot_msgs
+Description: Description of node_robot_msgs
+Version: 0.0.0
+Cflags: -I/home/apeng/yp/privatespace/my_ws/install/include
+Libs: -L/home/apeng/yp/privatespace/my_ws/install/lib 
+Requires: roscpp rospy std_msgs

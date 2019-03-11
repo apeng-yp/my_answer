@@ -1,0 +1,8 @@
+prefix=/home/apeng/yp/privatespace/my_ws/devel
+
+Name: node_mini_factory_server
+Description: Description of node_mini_factory_server
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/apeng/yp/privatespace/my_ws/devel/lib 
+Requires: node_robot_msgs roscpp rospy std_msgs
